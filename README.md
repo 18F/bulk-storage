@@ -3,6 +3,7 @@
 * Google 
 * Amazon
 * Internet Archive 
+* [Other Ideas](https://github.com/18F/bulk-storage/issues/2)?
 
 ## Ideas 
 * Write up recipes for using current options 
