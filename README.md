@@ -1,9 +1,9 @@
 
 ## Current Options 
-* Google 
-* Amazon
-* Internet Archive 
-* [Other Ideas](https://github.com/18F/bulk-storage/issues/2)?
+* [Amazon](http://aws.amazon.com/public-data-sets/)
+* [Internet Archive](https://github.com/unitedstates/inspectors-general/issues/63)
+* Google?  ([USPTO Example](http://www.google.com/googlebooks/uspto.html))
+* [Other Ideas?](https://github.com/18F/bulk-storage/issues/2)?
 
 ## Ideas 
 * Write up recipes for using current options 
