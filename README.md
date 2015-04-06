@@ -1,19 +1,31 @@
-## Files to Public (FTP.gov)
+## Bulk storage as a service
 
-### What is it?  
+This is currently at the **idea and proposal** stage, not a funded or staffed project.
 
-Data Hosting As A Service
+The views in this README are those of individual team members, not that of 18F as a whole.
+
+### Premise
+
+Anyone in the government should be able to easily upload publicly releasable files to a .gov URL.
 
 ### Why?
 
-Most agencies deal with the burden of hosting large data sets and many hold back from making more publicly available for reasons of cost, complexity, inconvenience, and inability.  This service would address each of those issues.  
+Many agencies conflate document release with "updating the website", or mistakenly believe that hosting files increases their exposure to cyberattack.
 
-### Questions? 
-* Could there be an unofficial data section, e.g. that a third party has scrapped and assembled?  Maybe call it the 'civic section'.  
-* Support state and local?  I'd suggest to focus on ensuring a successful Federal shared service for the indefinite future. -GB
-* Who can request to host?  Anyone with a .gov or .mil email address?  
-* What disclaimer would be needed before advancing?  
-* What disclaimer would be needed for public consumers?  
-* How does an agency affirm the data's authenticiity?  Perhaps create a norm of agency.gov/bulkdata that links to the files.  
+This ensures that the file must travel through heavy bureaucratic and technical barriers to make it onto a .gov URL, and incentivizes the release of files through email or unofficial third party domains, or often simply not releasing the file at all.
 
+There are also valid concerns about meeting accessibility (“508”) rules around online publishing, but these rules do not seem to be consistently interpreted or understood. Many documents and data produced in the modern era should have no trouble meeting 508 requirements, but are held back out of fear, uncertainty and doubt.
 
+### Target audience
+
+Any program office staff that prepare files suitable for public distribution but which currently face barriers or delays.
+
+### The Internet Archive
+
+The inspiration for this project is the Internet Archive ([archive.org](https://archive.org)). The Archive is famous for its "Wayback Machine", allows users to navigate the web’s past. The Archive also offers "collections" of files, documents, and media, and allows the public to contribute any file they wish, of any size, without first asking the Archive for permission.
+
+The Archive provides an "[S3-like API](http://archive.org/help/abouts3.txt)" for the uploading of even massive files. Contributors do not need to pay for the upload, storage, or download costs of their contribution.
+
+A free, permissionless system like the Archive's is deeply liberating, and completely changes the possibilities contributors conceive of and pursue. By not implementing its own controls and approval processes, the responsibility for these processes is pushed outwards, onto the person or organization contributing files.
+
+This hands-off, API-first approach allows nearly anyone to integrate the Archive into their projects, with their own metadata requirements and approval processes. As crucially, it keeps the Archive's own system requirements straightforward and manageable as it grows in contributions and contributors.
