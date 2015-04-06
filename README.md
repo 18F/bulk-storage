@@ -1,16 +1,19 @@
+## Files to Public (FTP.gov)
 
-## Current Options 
-* [Amazon](http://aws.amazon.com/public-data-sets/)
-* [Internet Archive](https://github.com/unitedstates/inspectors-general/issues/63)
-* Google?  ([USPTO Example](http://www.google.com/googlebooks/uspto.html))
-* [Other Ideas?](https://github.com/18F/bulk-storage/issues/2)?
+### What is it?  
 
-## Ideas 
-* Write up recipes for using current options 
-* An [18F service for bulk hosting of data](https://github.com/18F/bulk-storage/blob/master/18F_program.md) 
+Data Hosting As A Service
 
-## Notes 
-* [Ideas for Candidate Data Sets](https://github.com/18F/bulk-storage/issues/1)
+### Why?
 
+Most agencies deal with the burden of hosting large data sets and many hold back from making more publicly available for reasons of cost, complexity, inconvenience, and inability.  This service would address each of those issues.  
+
+### Questions? 
+* Could there be an unofficial data section, e.g. that a third party has scrapped and assembled?  Maybe call it the 'civic section'.  
+* Support state and local?  I'd suggest to focus on ensuring a successful Federal shared service for the indefinite future. -GB
+* Who can request to host?  Anyone with a .gov or .mil email address?  
+* What disclaimer would be needed before advancing?  
+* What disclaimer would be needed for public consumers?  
+* How does an agency affirm the data's authenticiity?  Perhaps create a norm of agency.gov/bulkdata that links to the files.  
 
 
